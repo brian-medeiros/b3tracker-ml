@@ -1,0 +1,8 @@
+[project]
+name = "b3tracker-ml"
+version = "0.1.0"
+description = "Camada de Machine Learning para alertas inteligentes de compra e venda no B3Tracker."
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
