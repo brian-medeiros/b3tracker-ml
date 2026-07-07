@@ -160,13 +160,3 @@ caso contrário, manter NEUTRO
 
 O modelo usa apenas dados técnicos históricos. Ele não incorpora notícias, resultados trimestrais, decisões de juros, eventos políticos, dividendos futuros ou choques externos. Portanto, os alertas devem ser tratados como apoio à decisão, não como recomendação automática de investimento.
 
-## Demonstração em vídeo
-
-O arquivo `roteiro_video.md` e sua versão em PDF em `reports/roteiro_video_b3tracker_ml.pdf` contêm uma sugestão de vídeo de até 5 minutos mostrando:
-
-1. problema original do B3Tracker;
-2. execução do pipeline;
-3. dataset gerado;
-4. matriz de confusão;
-5. exemplos de alertas finais;
-6. limitações do modelo.
